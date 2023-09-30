@@ -93,7 +93,7 @@ html {
 
 .home {
     display: flex;
-    background-color: #BCA37F;
+    background-image: url(/bgwallpaper.jpg);
     height: 100vh;
     background-position: center;
     background-size: cover;
